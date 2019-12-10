@@ -133,5 +133,10 @@
     background-color: #00ffff;
 }
 .ani05:hover {
+    cursor: pointer;
     animation: shake 1s infinite;
 }
+/* 
+关键帧动画，可以过渡任何css样式，所以可以做出更丰富的动画效果
+而且因为可以定义不同时间的样式，可以做到细节控制
+*/
