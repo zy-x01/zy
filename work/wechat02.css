@@ -62,7 +62,7 @@ footer .iconfont {
 }
 
 .line .iconfont {
-    font-size: 3rem;
+    font-size: 2rem;
 }
 
 /*
@@ -80,7 +80,7 @@ footer .iconfont {
     border-bottom: 1px solid #dcdcdc;
     flex: 1;
     /* 行高(行高大于字的大小，字会在行的垂直居中） */
-    line-height: 3rem;
+    line-height: 2rem;
     font-size: 1.2em;
 }
 
